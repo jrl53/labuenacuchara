@@ -4,8 +4,8 @@
 
 url: http://yoursite.com
 title: La Buena Cuchara
-email: your-email@domain.com
-author: Your Name
+email: labuenacucharacr@gmail.com
+author: Sophia Rodriguez
 description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
@@ -32,4 +32,4 @@ social:
     url: https://twitter.com/
   - title: email
     icon: envelope
-    url: labuenacucharacr@gmail.com
+    url: mailto:labuenacucharacr@gmail.com

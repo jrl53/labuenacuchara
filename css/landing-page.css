@@ -169,7 +169,7 @@ p.copyright {
  Generated with TWBS Color 
  */
 .navbar-default {
-  background-color: #f2f9f8;
+  background-color: #ffffff;
   border-color: #9dd3d6;
 }
 .navbar-default .navbar-brand {
@@ -226,4 +226,13 @@ p.copyright {
     color: #691e1a;
     background-color: #9dd3d6;
   }
+}
+
+/*For brand logo image*/
+
+.brand-logo-image {
+  float: left;
+  
+  padding: 0px 0px;
+  
 }
